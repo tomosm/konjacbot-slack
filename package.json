@@ -1,0 +1,25 @@
+{
+  "name": "konjacbot-slack",
+  "version": "0.1.0",
+  "description": "A translation bot for Slack",
+  "main": "lib/Botkit.js",
+  "dependencies": {
+    "@slack/client": "^3.5.4",
+    "config": "^1.21.0",
+    "mstranslator": "^2.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomosm/konjacbot-slack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomosm/konjacbot-slack/issues"
+  },
+  "keywords": [
+    "bots",
+    "chatbots",
+    "slack"
+  ],
+  "author": "crosslife777@gmail.com",
+  "license": "MIT"
+}
